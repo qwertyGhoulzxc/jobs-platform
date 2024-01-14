@@ -124,7 +124,7 @@ function Pagination({
           currentPage >= totalPages && "invisible",
         )}
       >
-        Previous page
+        Next page
         <ArrowRight size={16} />
       </Link>
     </div>
